@@ -10,6 +10,9 @@ body {
   width: 150px;
 }
 
+.nav-link:hover {
+  color: #fb9925 !important;
+}
 /* style for carousel */
 .carousel-indicators li {
   border: none;
